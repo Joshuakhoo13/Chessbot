@@ -14,7 +14,6 @@ A fully functional chess interface where users can play against a custom-built c
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Joshuakhoo13/Chessbot
-   cd Chessbot
 
 2. **Open project in a text editor**
 
