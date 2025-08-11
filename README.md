@@ -5,7 +5,7 @@ A fully functional chess interface where users can play against a custom-built c
 ## 🔹 Features
 - **Depth-limited Minimax Algorithm** with **Alpha–Beta Pruning** for efficient move search.
 - **Move Ordering** using a heuristic function so promising moves are explored first.
-- **Caching (table) ** to avoid re-evaluating previously visited positions, improving performance.
+- **Caching (table)** to avoid re-evaluating previously visited positions, improving performance.
 
 ---
 
