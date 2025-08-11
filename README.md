@@ -1,4 +1,4 @@
-# ♟ Chessbot – Play Against a bot
+# ♟ Chessbot – Play Against a Bot
 
 A fully functional chess interface where users can play against a custom-built chess bot.
 
